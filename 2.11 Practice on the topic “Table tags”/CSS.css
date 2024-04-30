@@ -1,0 +1,41 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  .gemstone-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .gemstone-table caption {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .gemstone-table th, .gemstone-table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .gemstone-table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .gemstone-table th:first-child, .gemstone-table td:first-child {
+    background-color: #e6f2ff;
+  }
+  
+  .gemstone-table th:nth-child(2), .gemstone-table td:nth-child(2) {
+    background-color: #ffe6ff;
+  }
+  
+  .gemstone-table th:nth-child(3), .gemstone-table td:nth-child(3) {
+    background-color: #ffffe6;
+  }
+  
+  .gemstone-table th:nth-child(4), .gemstone-table td:nth-child(4) {
+    background-color: #ffe6e6;
+  }

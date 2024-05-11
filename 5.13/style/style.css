@@ -1,0 +1,134 @@
+@font-face {
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Muller";
+  font-display: swap;
+  src:
+    local("Muller"),
+    url("../fonts/MullerBold.woff2") format("woff2"),
+    url("../fonts/MullerBold.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 500;
+  font-style: normal;
+  font-family: "Muller";
+  font-display: swap;
+  src:
+    local("Muller"),
+    url("../fonts/MullerMedium.woff2") format("woff2"),
+    url("../fonts/MullerMedium.woff") format("woff");
+}
+
+@font-face {
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Muller";
+  font-display: swap;
+  src:
+    local("Muller"),
+    url("../fonts/MullerLight.woff2") format("woff2"),
+    url("../fonts/MullerLight.woff") format("woff");
+}
+
+.visually-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+}
+
+h2 {
+  font-family: "Muller";
+  font-weight: 400;
+  font-size: 40px;
+}
+
+.header-tel {
+  font-family: "Muller";
+  font-weight: 500;
+}
+
+/* .spectial-item-heading {
+  font-family: Muller;
+  font-weight: 700;
+  font-size: 40px;
+} */
+
+.header {
+  font-family: "Muller";
+  font-weight: 400;
+  font-size: 16px;
+}
+.header-return {
+  font-family: Muller;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.actions-button {
+  font-family: "Muller";
+  font-weight: 400;
+  font-size: 16px
+}
+
+.offers-card-heading {
+  font-family: Muller;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.offers-card-price {
+  font-family: Muller;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.link {
+  font-family: Muller;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.about-text {
+  font-family: Muller;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.servises-heading-link {
+  font-family: Muller;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.service-card-text {
+  font-family: Muller;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.advantage {
+  font-family: Muller;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.placement-list {
+  font-family: Muller;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.hotel-price {
+  font-family: Muller;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.hotel-name {
+  font-family: Muller;
+  font-weight: 400;
+  font-size: 16px;
+}
